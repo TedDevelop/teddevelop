@@ -1,9 +1,9 @@
-📌 doncaster, united kingdom
+📌 doncaster, united kingdom  
 📚 languages
 - 🐍 python
 - #️⃣ c#
 - ➕ c++
 - 🌙 lua
-- 📜 javascript
+- 📜 javascript  
 💼 currently working on:
 - nothing lol
