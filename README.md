@@ -5,5 +5,5 @@
 - ➕ c++
 - 🌙 lua
 - 📜 javascript  
-💼 currently working on:
-- nothing lol
+💼 currently working on:  
+nothing lol
