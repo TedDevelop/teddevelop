@@ -7,4 +7,4 @@
 - 📜 javascript  
 
 💼 currently working on:  
-twitch.py ((here))[https://twitter.com/JohnMarquis09/with_replies]
+twitch.py [(here)](https://twitter.com/JohnMarquis09/with_replies)
